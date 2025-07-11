@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Introduction"
             }
           }
         ]
@@ -184,8 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a78ec47c02a05c",
+  "active": "1c63bfcfe0f00af1",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Topology and Geometry/FA2025",
+    "Real Analysis/FA2025",
+    "Abstract Algebra/FA2025",
+    "Complex Analysis",
+    "Topology and Geometry",
+    "Real Analysis",
+    "Abstract Algebra",
+    "Introduction.md"
   ]
 }
