@@ -6,4 +6,4 @@
 3. In the multiplicative group $\mathbb{Z}\setminus \{0\}, \mathbb{Q}\setminus\{0\}$, $\mathbb{R}\setminus \{0\}$, $-1$ has order 2. 
 
 ## References:
-1. [[Group]] 
+1. [Group](Group.md)

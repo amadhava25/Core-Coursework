@@ -9,4 +9,4 @@
 4. Existence is guaranteed by taking $y= ba^{-1} \in G$. Suppose $ya = b= y'a \iff ya = y'a$. Then by Property (2), $y = y'$, showing uniqueness. 
 
 ## References:
-1. [[Group]]
+1. [Group](Group.md)

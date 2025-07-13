@@ -13,4 +13,4 @@
 5. This proof follows by induction on the number $n$ of elements in the operation. 
 
 ## References:
-1. [[Group]]
+1. [Group](Group.md)

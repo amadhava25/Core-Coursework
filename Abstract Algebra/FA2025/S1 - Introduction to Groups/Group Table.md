@@ -4,4 +4,4 @@
 1. Consider the additive group $G = \mathbb{Z}/4\mathbb{Z} = \{\bar{0}, \bar{1}, \bar{2}, \bar{3}\}$. Then the corresponding group table is: $$\begin{bmatrix}\bar{0} & \bar{1} & \bar{2} & \bar{3} \\ \bar{1} & \bar{2} & \bar{3} & \bar{0} \\ \bar{2} & \bar{3} & \bar{0} & \bar{1} \\ \bar{3} & \bar{0} & \bar{1} & \bar{2}\end{bmatrix}.$$
 
 ## References:
-1. [[Group]]
+1. [Group](Group.md)
