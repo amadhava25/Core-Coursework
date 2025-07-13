@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
+                "file": "Abstract Algebra/FA2025/S2 Groups/S2 Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposition 1"
+              "title": "S2 Test"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "93a78ec47c02a05c",
   "lastOpenFiles": [
-    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
+    "Abstract Algebra/FA2025/S2 Groups/S2 Test.md",
+    "Abstract Algebra/FA2025/S2 Groups",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group.md",
     "README.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups",
     "Topology and Geometry/FA2025/S31 - The Separation Axioms",
@@ -198,7 +200,6 @@
     "Topology and Geometry/FA2025/S24 - Connected Subspaces of the Real Line",
     "Topology and Geometry/FA2025/S23 - Connected Spaces",
     "Topology and Geometry/FA2025/S22 - The Quotient Topology",
-    "Topology and Geometry/FA2025/S21 - The Metric Topology (Continued)",
     "Topology and Geometry/FA2025/S16 - The Subspace Topology/Untitled.md",
     "Topology and Geometry/FA2025/Untitled.md",
     "Topology and Geometry/FA2025/S18 - Continuous Functions/Continuity of a Function.md"
