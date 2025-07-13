@@ -1,0 +1,4 @@
+> Def. (Symmetry): For each $n \in \mathbb{N}$, a symmetry of an $n$-gon is any rigid motion of the $n$-gon which can be effected by taking a copy of the $n$-gon, moving this copy in any fashion in 3D space, and then placing the copy back on the original $n$-gon so that it exactly covers it. In particular, if the vertices of the $n$-gon are labeled from $1$ to $n$ counter-clockwise, starting from the right-most point, then a symmetry on the $n$-gon is given by a permutation $\sigma$ on the set $\{1, \ldots, n\}$ such that if the symmetry maps $i \mapsto j$, then $\sigma(i) = j$. 
+
+## References: 
+1. [[Group]]
