@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Proposition 1"
             }
           }
         ]
@@ -184,8 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c63bfcfe0f00af1",
+  "active": "93a78ec47c02a05c",
   "lastOpenFiles": [
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
+    "README.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups",
     "Topology and Geometry/FA2025/S31 - The Separation Axioms",
     "Topology and Geometry/FA2025/S30 - The Countability Axioms",
     "Topology and Geometry/FA2025/S27 - Compact Subspaces of the Real Line",
@@ -195,11 +199,8 @@
     "Topology and Geometry/FA2025/S23 - Connected Spaces",
     "Topology and Geometry/FA2025/S22 - The Quotient Topology",
     "Topology and Geometry/FA2025/S21 - The Metric Topology (Continued)",
-    "Topology and Geometry/FA2025/S20 - The Metric Topology",
     "Topology and Geometry/FA2025/S16 - The Subspace Topology/Untitled.md",
     "Topology and Geometry/FA2025/Untitled.md",
-    "Topology and Geometry/FA2025/S18 - Continuous Functions",
-    "README.md",
     "Topology and Geometry/FA2025/S18 - Continuous Functions/Continuity of a Function.md"
   ]
 }
