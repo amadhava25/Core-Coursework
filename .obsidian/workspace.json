@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b10c78531f404fc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93a78ec47c02a05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proposition 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "c453c24ceca45f87",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "6623fb15c0c81831",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/FA2025/S2 - Subgroups/Centralizer of a Set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Centralizer of a Set"
             }
           }
         ]
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Proposition 1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,13 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a78ec47c02a05c",
+  "active": "6623fb15c0c81831",
   "lastOpenFiles": [
-    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 2.md",
+    "Abstract Algebra/FA2025/S2 - Subgroups/Proposition 2.1 (Subgroup Criterion).md",
+    "Abstract Algebra/FA2025/S2 - Subgroups/Centralizer of a Set.md",
+    "Abstract Algebra/FA2025/S2 - Subgroups/Subgroup.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.1.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.2.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group Action.md",
+    "Abstract Algebra/FA2025/S2 - Subgroups",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Isomorphism.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Homomorphism.md",
+    "Abstract Algebra/FA2025/S1 - Introduction to Groups/General Linear Group over a Field.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Notations for the Dihedral Group.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Presentation of a Group.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Quaternion Group.md",
-    "Abstract Algebra/FA2025/S1 - Introduction to Groups/General Linear Group over a Field.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Field.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Symmetric Group on a Set.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Relations in a Group.md",
@@ -199,7 +191,6 @@
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Symmetry.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group Table.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Order of an Element.md",
-    "Abstract Algebra/FA2025/S1 - Introduction to Groups/Proposition 1.md",
     "Abstract Algebra/FA2025/S1 - Introduction to Groups/Group.md",
     "Abstract Algebra/FA2025/S2 Groups/S2 Test.md",
     "Abstract Algebra/FA2025/S2 Groups",
@@ -212,7 +203,6 @@
     "Topology and Geometry/FA2025/S25 - Components and Local Connectedness",
     "Topology and Geometry/FA2025/S24 - Connected Subspaces of the Real Line",
     "Topology and Geometry/FA2025/S23 - Connected Spaces",
-    "Topology and Geometry/FA2025/S22 - The Quotient Topology",
     "Topology and Geometry/FA2025/S16 - The Subspace Topology/Untitled.md",
     "Topology and Geometry/FA2025/Untitled.md",
     "Topology and Geometry/FA2025/S18 - Continuous Functions/Continuity of a Function.md"
