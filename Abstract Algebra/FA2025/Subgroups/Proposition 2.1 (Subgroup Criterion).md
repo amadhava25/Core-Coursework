@@ -13,5 +13,5 @@ Statement 2:
 Let $H$ be a nonempty, finite subset of $G$ that is closed under multiplication. Let $x$ be any element of $H$. Then there must be finitely many distinct elements among $x, x^{2}, x^{3}, \ldots$ such that $x^{a} = x^{b}$ for some $a, b \in \mathbb{Z}$, with $b > a$. Hence, $x^{b - a} = 1$. In particular, every element of $H$ has finite order. Moreover, $x^{b -a - 1} = x^{-1}$ is an element of $H$, so that $H$ is closed under inverses. 
 
 ## References:
-1. [Group](Group.md)
-2. [Subgroup](Subgroup.md)
+1. [Group](Introduction%20to%20Groups/Group.md)
+2. [Subgroup](Subgroups/Subgroup.md)
