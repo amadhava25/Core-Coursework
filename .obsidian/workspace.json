@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/FA2025/Introduction to Groups/Notations for the Dihedral Group.md",
+                "file": "Abstract Algebra/FA2025/Introduction to Groups/Group.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notations for the Dihedral Group"
+              "title": "Group"
             }
           }
         ]
@@ -170,10 +170,11 @@
   },
   "active": "6623fb15c0c81831",
   "lastOpenFiles": [
-    "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
-    "Abstract Algebra/FA2025/Subgroups/Proposition 2.1 (Subgroup Criterion).md",
     "Abstract Algebra/FA2025/Subgroups/Centralizer of a Set.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Group.md",
+    "Abstract Algebra/FA2025/Introduction to Groups/Notations for the Dihedral Group.md",
+    "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
+    "Abstract Algebra/FA2025/Subgroups/Proposition 2.1 (Subgroup Criterion).md",
     "Introduction to$20Groups/Group.md",
     "Introduction to$20Groups",
     "S1 - Introduction to$20Groups/Group.md",
@@ -185,7 +186,6 @@
     "Abstract Algebra/FA2025/Introduction to Groups/Isomorphism.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Homomorphism.md",
     "Abstract Algebra/FA2025/Introduction to Groups/General Linear Group over a Field.md",
-    "Abstract Algebra/FA2025/Introduction to Groups/Notations for the Dihedral Group.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Presentation of a Group.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Quaternion Group.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Field.md",

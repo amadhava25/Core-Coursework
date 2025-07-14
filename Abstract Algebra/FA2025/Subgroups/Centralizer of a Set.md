@@ -10,7 +10,7 @@ By Proposition 2.1 (the Subgroup Criterion), it follows that $C_{G}(A)$ is a sub
 2. $C_{Q_{8}}(i) = \{\pm 1, \pm i\}$. 
 
 ## References: 
-1. [Group](Introduction%20to%20Groups/Group.md)
+1. [Group](../Introduction%20to%20Groups/Group.md)
 2. [Subgroup](Subgroups/Subgroup.md)
 3. [Proposition 2.1 (Subgroup Criterion)](Subgroups/Proposition%202.1%20(Subgroup%20Criterion).md)
 4. [Quaternion Group](Introduction%20to%20Groups/Quaternion%20Group.md)
