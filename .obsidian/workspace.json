@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
+                "file": "Abstract Algebra/FA2025/Subgroups/Theorem 4 (Isomorphisms Between Cyclic Groups).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subgroup"
+              "title": "Theorem 4 (Isomorphisms Between Cyclic Groups)"
             }
           }
         ]
@@ -170,11 +170,18 @@
   },
   "active": "6623fb15c0c81831",
   "lastOpenFiles": [
-    "Abstract Algebra/FA2025/Subgroups/Proposition 2.1 (Subgroup Criterion).md",
+    "Abstract Algebra/FA2025/Subgroups/Proposition 2.3 (Order of Elements and GCD).md",
+    "Abstract Algebra/FA2025/Subgroups/Theorem 4 (Isomorphisms Between Cyclic Groups).md",
+    "Abstract Algebra/FA2025/Subgroups/Proposition 2.2 (Order of Cyclic Groups).md",
+    "Abstract Algebra/FA2025/Subgroups/Cyclic Group.md",
+    "Abstract Algebra/FA2025/Subgroups/Stabilizer of a Set Element.md",
+    "Abstract Algebra/FA2025/Subgroups/Normalizer of a Set.md",
     "Abstract Algebra/FA2025/Subgroups/Centralizer of a Set.md",
+    "Abstract Algebra/FA2025/Subgroups/Center of a Group.md",
+    "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
+    "Abstract Algebra/FA2025/Subgroups/Proposition 2.1 (Subgroup Criterion).md",
     "Abstract Algebra/FA2025/Introduction to Groups/Group.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Notations for the Dihedral Group.md",
-    "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
     "Introduction to$20Groups/Group.md",
     "Introduction to$20Groups",
     "S1 - Introduction to$20Groups/Group.md",
@@ -192,19 +199,12 @@
     "Abstract Algebra/FA2025/Introduction to Groups/Symmetric Group on a Set.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Relations in a Group.md",
     "Abstract Algebra/FA2025/Introduction to Groups/Generators of a Group.md",
-    "Abstract Algebra/FA2025/Introduction to Groups/Dihedral Group.md",
-    "Abstract Algebra/FA2025/Introduction to Groups/Symmetry.md",
-    "Abstract Algebra/FA2025/Introduction to Groups/Group Table.md",
-    "Abstract Algebra/FA2025/Introduction to Groups/Order of an Element.md",
-    "Abstract Algebra/FA2025/S2 Groups/S2 Test.md",
     "Abstract Algebra/FA2025/S2 Groups",
-    "README.md",
     "Abstract Algebra/FA2025/Introduction to Groups",
     "Topology and Geometry/FA2025/S31 - The Separation Axioms",
     "Topology and Geometry/FA2025/S30 - The Countability Axioms",
     "Topology and Geometry/FA2025/S27 - Compact Subspaces of the Real Line",
     "Topology and Geometry/FA2025/S26 - Compact Sets",
-    "Topology and Geometry/FA2025/S25 - Components and Local Connectedness",
-    "Topology and Geometry/FA2025/S16 - The Subspace Topology/Untitled.md"
+    "Topology and Geometry/FA2025/S25 - Components and Local Connectedness"
   ]
 }
