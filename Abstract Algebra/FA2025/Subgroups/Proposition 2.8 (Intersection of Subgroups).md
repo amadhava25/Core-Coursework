@@ -8,6 +8,6 @@ Let $\mathcal{A} = \{A_{\alpha}\}_{\alpha \in A}$, where each $A_{\alpha} \leq G
 Therefore, by Proposition 2.1 (The Subgroup Criterion), $\sf{A}$ is a subgroup of $G$. 
 
 ## References:
-1. [Group](../Introduction%to$Groups/Group.md)
+1. [Group](../Introduction%20to%20%Groups/Group.md)
 2. [Subgroup](Subgroup.md)
 3. [Proposition 2.1 (Subgroup Criterion)](Proposition%202.1%20(Subgroup%20Criterion).md)

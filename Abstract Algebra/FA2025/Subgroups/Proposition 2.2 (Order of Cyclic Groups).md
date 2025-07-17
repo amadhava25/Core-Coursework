@@ -6,6 +6,6 @@
 
 
 ## References: 
-1. [Group](../Introduction%20%to%Groups/Group.md)
+1. [Group](../Introduction%20%to%20Groups/Group.md)
 2. [Cyclic Group](Cyclic%20Group.md)
 3. [Order of an Element](../Introduction%to%20Groups/Order%20of%20an%20Element.md)

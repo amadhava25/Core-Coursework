@@ -6,7 +6,7 @@
 Therefore, by Proposition 2.1 (The Subgroup Criterion), $G_{s}$ is a subgroup of $G$. 
 
 ## References: 
-1. [Group](../Introduction%20to%Groups/Group.md)
+1. [Group](../Introduction%20to%20Groups/Group.md)
 2. [Subgroup](Subgroup.md)
 3. [Group Action](../Introduction%20to%20Groups/Group%20Action.md)
 4. [Proposition 2.1 (Subgroup Criterion)](Proposition%202.1%20(Subgroup%20Criterion).md)

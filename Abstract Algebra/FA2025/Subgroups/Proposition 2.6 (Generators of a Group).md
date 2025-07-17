@@ -12,7 +12,7 @@
 1. This proposition enables us to exactly deduce the generators of a group. For example, in $\mathbb{Z}/12\mathbb{Z}$, the generators are those residue classes $\bar{a}$ such that $(a, 12) = 1$; i.e., the generators are $\bar{1}, \bar{5}, \bar{7}, \bar{11}$. We check that $\varphi(n) = 4$. 
 
 ## References: 
-1. [Group](../Introduction%to%Groups/Group.md)
+1. [Group](../Introduction%20to%20Groups/Group.md)
 2. [Cyclic Group](Cyclic%20Group.md)
 3. [Proposition 2.2 (Order of Cyclic Groups)](Proposition%202.2%20(Order%20of%20Cyclic%20Groups).md)
 4. [Subgroup](Subgroup.md)

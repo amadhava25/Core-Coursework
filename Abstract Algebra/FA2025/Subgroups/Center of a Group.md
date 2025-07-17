@@ -8,7 +8,7 @@ Therefore, by Proposition 2.1 (The Subgroup Criterion), $Z(G)$ is a subgroup of 
 We could have proven this theorem much more succinctly by noting that $Z(G) = C_{G}(G)$, and hence must be a subgroup by an earlier proof. 
 
 ## References:
-1. [Group](../Introduction%20%to$Groups/Group.md)
+1. [Group](../Introduction%20%to%20Groups/Group.md)
 2. [Proposition 2.1 (Subgroup Criterion)](Proposition%202.1%20(Subgroup%20Criterion).md)
 3. [Centralizer of a Set](Centralizer%20of%20a%20Set.md)
 4. [Subgroup](Subgroup.md)
