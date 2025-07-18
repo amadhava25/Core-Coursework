@@ -1,0 +1,1 @@
+> Cor. (Product of Subgroups and Normal Subgroups): If $H$ and $K$ are subgroups of $G$ and $H \leq N_{G}(K)$ then $HG$ is a subgroup of $G$. In particular, if $K \unlhd G$ then $HK \leq G$ for any $H \leq G$. 

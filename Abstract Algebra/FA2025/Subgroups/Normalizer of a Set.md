@@ -1,4 +1,4 @@
-> Def. (Normalizer of a Set): Define the get $$gAg^{-1} \coloneqq \{gag^{-1}:a \in A\}$$ and the set $$N_{G}(A) \coloneqq \{g \in G: gAg^{-1} = A\}.$$ Then $N_{G}(A)$ is a subgroup of $G$, called the *normalizer of $A$ in $G$*. 
+> Def. (Normalizer of a Set): Define the set $$gAg^{-1} \coloneqq \{gag^{-1}:a \in A\}$$ and the set $$N_{G}(A) \coloneqq \{g \in G: gAg^{-1} = A\}.$$ Then $N_{G}(A)$ is a subgroup of $G$, called the *normalizer of $A$ in $G$*. 
 
 ## Proof:
 1. Clearly $1 \in N_{G}(A)$ such that it is nonempty. 
