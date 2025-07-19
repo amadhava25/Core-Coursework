@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Corollary 3.15 (Product of Subgroups; Normal Subgroups).md",
+                "file": "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.25 (Odd Permutations).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corollary 3.15 (Product of Subgroups; Normal Subgroups)"
+              "title": "Proposition 3.25 (Odd Permutations)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "../Subgroup/S",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,34 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6623fb15c0c81831",
+  "active": "1c63bfcfe0f00af1",
   "lastOpenFiles": [
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.14 (Product of Subgroups is a Subgroup).md",
+    "Abstract Algebra/FA2025/Group Actions",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Alternating Group of Degree n.md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.25 (Odd Permutations).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.8 (Lagrange's Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.24 (Transpositions are Odd).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.23 (Sign of Permutation is Homomorphism).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Even and Odd Permutations.md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Parity of a Symmetry (Intuition).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Transposition.md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 20 (Fourth of Lattice Isomorphism Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.19 (Third Isomorphism Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.18 (Second or Diamond Isomorphism Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Corollary 3.17 (Corollary to First Isomorphism Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.16 (First Isomorphism Theorem).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.3 (Product of Left Cosets of Kernels).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Quotient Group (Factor Group).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.7 (Normal Subgroups and Kernels).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.5 (Multiplication of Cosets).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.2 (Fibers of a Homomorphism).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.1 (Properties of the Kernel).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Cosets of Groups.md",
     "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Corollary 3.15 (Product of Subgroups; Normal Subgroups).md",
+    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.14 (Product of Subgroups is a Subgroup).md",
     "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.13 (Order of Product of Subgroups).md",
     "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.12 (Sylow's Theorem).md",
     "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.11 (Cauchy's Theorem).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Product of Subgroups (Informal).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Simple Groups.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Corollary 3.10 (Groups of Prime Order).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.8 (Lagrange's Theorem).md",
-    "Abstract Algebra/FA2025/Subgroups/Subgroup.md",
-    "Abstract Algebra/FA2025/Table of Contents.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Corollary 3.9 (Order of an Element and Order of Group).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Index of a Subgroup.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.7 (Normal Subgroups and Kernels).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.6 (Equivalent Conditions for Normal Subgroups).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Normal Subgroup.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.5 (Multiplication of Cosets).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Theorem 3.3 (Product of Left Cosets of Kernels).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.4 (Partition of Groups by Left Cosets).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Cosets of Groups.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Fibers of Homomorphisms.md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.1 (Properties of the Kernel).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Proposition 3.2 (Fibers of a Homomorphism).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Quotient Group (Factor Group).md",
-    "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms/Kernel of a Homomorphism.md",
-    "Abstract Algebra/FA2025/Subgroups/Theorem 2.7 (Complete Subgroup Structure of Cyclic Groups).md",
     "Abstract Algebra/FA2025/Table of Contents.canvas",
     "Abstract Algebra/FA2025/Quotient Groups and Homomorphisms",
     "Introduction to$20Groups",

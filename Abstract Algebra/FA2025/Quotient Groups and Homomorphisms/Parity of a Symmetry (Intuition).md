@@ -1,0 +1,8 @@
+> Goal: The parity (i.e., an odd or even number of terms) is the same for any product of transpositions equaling a fixed permutation $\sigma$. 
+
+Let $x_{1}, \ldots, x_{n}$ be independent variables and $\Delta$ the polynomial $$\Delta = \prod_{1 \leq i < j \leq n}(x_{i} - x_{j}).$$ For example, when $n = 4$, $$\Delta = (x_{1} - x_{2})(x_{1} - x_{3})(x_{1} - x_{4})(x_{2} - x_{3})(x_{2} - x_{4})(x_{3} - x_{4}).$$ For each $\sigma \in S_{n}$, let $\sigma$ act on $\Delta$ by permuting the variables in the same way it permutes their indices: $$\sigma(\Delta) = \prod_{1 \leq i < j \leq n}(x_{\sigma(i)} - x_{\sigma(j)}).$$ Note (in general) that $\Delta$ contains one factor $x_{i} - x_{j}$ for all $i < j$. Since $\sigma$ is a bijection of indices, then $\sigma(\Delta)$ must contain either $x_{i} - x_{j}$ or $x_{j} - x_{i}$, but not both. $\sigma(\Delta)$ also cannot contain $x_{i} - x_{i}$. And if $\sigma(\Delta)$ has a factor $x_{j} - x_{i}$, where $j > i$, write this term as $-(x_{i} - x_{j})$. Hence, we see that $\sigma(\Delta)$ has all the same factors as $\Delta$ up to a product of $-1$'s; i.e., $$\sigma(\Delta) = \pm \Delta, \qquad \text{ for all $\sigma \in S_{n}$}.$$ For each $\sigma \in S_{n}$, let $$\epsilon(\sigma) = \begin{cases}-1, & \text{ if $\sigma(\Delta) = -\Delta$} \\ +1, & \text{ if $\sigma(\Delta) = +\Delta.$} \end{cases}$$We will see a rigorous definition for $\epsilon(\sigma)$ in the following note (Even and Odd Permutations). 
+
+## References:
+1. [Transposition](Transposition.md)
+2. [Symmetric Group on a Set](../Introduction%20to%20Groups/Symmetric%20Group%20on%20a%20Set.md)
+3. [Even and Odd Permutations](Even%20and%20Odd%20Permutations.md)
